@@ -1,0 +1,8 @@
+﻿  Main.cpp
+c:\users\admin\source\repos\memz\memz\main.cpp(41): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\admin\source\repos\memz\memz\main.cpp(43): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\admin\source\repos\memz\memz\main.cpp(66): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码
+  All 22 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  MEMZ.vcxproj -> C:\Users\Admin\source\repos\MEMZ\Release\MEMZ.exe
